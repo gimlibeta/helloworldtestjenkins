@@ -8,7 +8,7 @@ public class TestConstantes {
         Assert.assertEquals("NO-BODY", Constantes.WHO);
         System.out.println("Hello "+Constantes.WHO);
 
-	Assert.assertEquals("NO-BODY", Constantes2.WHO);
-        System.out.println("Hello "+Constantes2.WHO);
+	/*Assert.assertEquals("NO-BODY", Constantes2.WHO);
+        System.out.println("Hello "+Constantes2.WHO);*/
     }
 }

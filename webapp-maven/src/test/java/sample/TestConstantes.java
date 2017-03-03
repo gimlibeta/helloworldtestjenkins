@@ -5,10 +5,10 @@ import org.junit.Test;
 public class TestConstantes {
     @Test
     public void testHelloWorld(){
-        Assert.assertEquals("NO-BODY", Constantes.WHO);
+        Assert.assertEquals("YDOB-ON", Constantes.WHO);
         System.out.println("Hello "+Constantes.WHO);
 
-	/*Assert.assertEquals("NO-BODY", Constantes2.WHO);
-        System.out.println("Hello "+Constantes2.WHO);*/
+	Assert.assertEquals("NO-BODY", Constantes2.WHO);
+        System.out.println("Hello "+Constantes2.WHO);
     }
 }
